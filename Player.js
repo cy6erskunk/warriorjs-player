@@ -1,6 +1,6 @@
-var retreatThreshold = 9;
-var retreatThresholdInBattle = 5;
-var restThreshold = 12;
+var retreatThreshold = 8;
+var retreatThresholdInBattle = 4;
+var restThreshold = 11;
 
 class Player {
     playTurn(warrior) {
